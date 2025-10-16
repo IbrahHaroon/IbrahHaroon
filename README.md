@@ -1,7 +1,20 @@
 
+
 # 👋 Hi, I'm Ibrahim Haroon
 
 I'm a Computer Science student at NJIT, passionate about building impactful software and exploring the intersection of AI, web development, and data science. I love collaborating on open-source projects and learning new technologies.
+
+---
+
+## 📊 GitHub Stats
+
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahHaroon&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
+
+---
 
 ## 🚀 Projects
 
