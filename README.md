@@ -8,7 +8,7 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ## 📊 GitHub Stats
 
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahHaroon&show_icons=true&hide_title=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&hide_title=true)
 
