@@ -5,68 +5,37 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ## 🚀 Projects
 
-### 🛒 E-Commerce Website
-**Stack:** FastAPI, PostgreSQL, Stripe, JavaScript, React  
-Built a full-stack e-commerce platform with secure payment processing, RESTful APIs, and a React frontend.
+### 🛒 E-Commerce Website | Python, FastAPI, PostgreSQL, Stripe, JavaScript, React
+- Engineered a FastAPI backend with PostgreSQL to manage product catalog, user accounts, and transaction data.
+- Integrated the Stripe API to enable secure and reliable payment processing while streamlining checkout workflows.
+- Developed RESTful endpoints for authentication and CRUD operations to ensure seamless client-server interaction.
+- Coordinated with a React frontend to deliver a complete full-stack e-commerce solution with a robust backend.
 
-### 🤖 Hackathon AI Bot
-**Stack:** Python, HTML, CSS, GitHub, PhilaData, Django  
-Led a team to develop an AI chatbot during a hackathon, integrating backend logic and a functional terminal-based prototype.
+### 🤖 Hackathon AI Bot | Python, HTML, CSS, GitHub, PhilaData, Django
+- Led a team of four to develop an AI chatbot during a hackathon, managing backend integration with Django.
+- Directed task assignments, timeframes, and collaboration to ensure balanced focus between frontend and backend work.
+- Researched solutions and guided teammates to overcome challenges with AI integration into the Django framework.
+- Completed a functional terminal-based prototype that showcased core chatbot features and backend integration.
 
-### 🌐 Web Scraping Data Visualizer
-**Stack:** Python, BeautifulSoup, Matplotlib, NumPy  
-Created a tool to extract and visualize data from HTML web pages, with robust testing and data transformation.
+### 🌐 Web Scraping Data Visualizer | Python, BeautifulSoup, Matplotlib, NumPy
+- Built a Python scraper using BeautifulSoup to extract product dimension data from structured HTML web pages.
+- Implemented data visualization with Matplotlib and NumPy to transform extracted data into clear graphical outputs.
+- Designed a test website to validate scraping accuracy and achieved functionality success rates of over 95%.
+- Gained hands-on experience in web scraping, library integration, debugging, and multi-stage project planning.
 
-### �️ Fortran-95 Compiler
-**Stack:** C++  
-Designed a lexical analyzer and interpreter for Fortran-95, supporting dynamic execution and error handling.
+### 🖥️ Fortran-95 Compiler | C++
+- Designed a lexical analyzer in C++ to read Fortran-95 programs and tokenize each statement and declaration.
+- Built a recursive descent parser to construct parse trees using formal grammar notation.
+- Implemented look-ahead parsing and recursion to handle complex structures and ensure accurate code interpretation.
+- Created an interpreter supporting dynamic execution with robust error handling and runtime evaluation.
 
-## �️ Skills
+## 🛠️ Skills
 
 **Programming Languages:** Python, C, C++, Bash, Java, SQL  
 **Frameworks:** Django, FastAPI, React  
 **Libraries:** BeautifulSoup, Matplotlib, NumPy, Pandas, PyMongo, Stripe, SQLAlchemy  
 **Databases:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ, Google Cloud Platform, Unix/Linux
-
-## 🌳 Skill Tree
-
-```mermaid
-graph TD
-	A[Programming Skills]
-	A --> B[Web Development]
-	B --> B1[Frontend]
-	B1 --> B1a[React]
-	B1 --> B1b[JavaScript]
-	B --> B2[Backend]
-	B2 --> B2a[FastAPI]
-	B2 --> B2b[Django]
-	B2 --> B2c[Stripe API]
-	B2 --> B2d[SQLAlchemy]
-	B2 --> B2e[REST APIs]
-	B --> B3[Databases]
-	B3 --> B3a[PostgreSQL]
-	B3 --> B3b[MongoDB]
-	A --> C[Data Science]
-	C --> C1[Web Scraping]
-	C1 --> C1a[BeautifulSoup]
-	C --> C2[Visualization]
-	C2 --> C2a[Matplotlib]
-	C2 --> C2b[NumPy]
-	C --> C3[Pandas]
-	A --> D[Compiler Design]
-	D --> D1[C++]
-	D --> D2[Parsing]
-	D --> D3[Interpreter]
-	A --> E[Dev Tools]
-	E --> E1[Git]
-	E --> E2[GitHub]
-	E --> E3[VS Code]
-	E --> E4[PyCharm]
-	E --> E5[IntelliJ]
-	E --> E6[Google Cloud]
-	E --> E7[Unix/Linux]
-```
 
 ## 📫 Contact
 
