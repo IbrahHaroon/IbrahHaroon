@@ -5,13 +5,19 @@ I love collaborating on open-source projects and learning new technologies.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&hide_title=true)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=IbrahHaroon&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahHaroon&layout=compact&show_icons=true&theme=react" alt="IbrahHaroon github-readme-stats" width="48%" />
 
----
+  <br /><br />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&theme=react" alt="IbrahHaroon github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahHaroon&theme=merko" alt="IbrahHaroon github readme activity graph" width="60%" />
+
+</div>
 
 ## 🛠️ Skills — ASCII Graph
 ```text
