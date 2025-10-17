@@ -11,15 +11,10 @@ I love collaborating on open-source projects and learning new technologies.
 
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=IbrahHaroon&theme=react" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahHaroon&layout=compact&show_icons=true&theme=react" alt="IbrahHaroon github-readme-stats" width="48%" />
-
-  <br /><br />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&theme=react" alt="IbrahHaroon github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahHaroon&theme=merko" alt="IbrahHaroon github readme activity graph" width="60%" />
-
-  <p align="center">
   <img src="https://leetcard.jacoblin.cool/ih62?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
-  </p>
+  
 
 </div>
 
