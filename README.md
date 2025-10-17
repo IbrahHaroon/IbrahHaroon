@@ -18,7 +18,7 @@ I love collaborating on open-source projects and learning new technologies.
 
 </div>
 
-## 🛠️ Skills — ASCII Graph
+## 🛠️ Skills
 ```text
 IbrahimHaroon_Skills/
 ├── Programming_Languages/
@@ -30,6 +30,7 @@ IbrahimHaroon_Skills/
 │   └── SQL
 ├── Frameworks/
 │   ├── Django
+|   ├── Flask
 │   └── React
 ├── Libraries/
 │   ├── BeautifulSoup
@@ -62,7 +63,7 @@ IbrahimHaroon_Skills/
 - Developed **RESTful endpoints** for authentication and CRUD operations to ensure seamless client-server interaction.  
 - Coordinated with a React frontend to deliver a full-stack e-commerce solution with a robust backend.
 
-### 🤖 Hackathon AI Bot | *Python, HTML, CSS, GitHub, PhilaData, Django*
+### 🤖 Hackathon AI Bot | *Python, HTML, CSS, GitHub, PhiData, Django*
 - Led a **team of four** to develop an AI chatbot during a hackathon, managing backend integration with Django.  
 - Directed task assignments, timeframes, and collaboration between frontend and backend.  
 - Researched and implemented AI integration solutions for Django.  
