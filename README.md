@@ -1,8 +1,7 @@
-
-
 # 👋 Hi, I'm Ibrahim Haroon
 
-I'm a Computer Science student at NJIT, passionate about building impactful software and exploring the intersection of AI, web development, and data science. I love collaborating on open-source projects and learning new technologies.
+I'm a Computer Science student at **NJIT**, passionate about building impactful software and exploring the intersection of **AI**, **web development**, and **data science**.  
+I love collaborating on open-source projects and learning new technologies.
 
 ---
 
@@ -12,27 +11,9 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
 
-
-## 🛠️ Skills — ASCII Graph
-
-```text
-IbrahimHaroon_Skills/
-# 👋 Hi, I'm Ibrahim Haroon
-
-I'm a Computer Science student at NJIT, passionate about building impactful software and exploring the intersection of AI, web development, and data science. I love collaborating on open-source projects and learning new technologies.
-
 ---
 
-## 📊 GitHub Stats
-
-```markdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
-```
-
 ## 🛠️ Skills — ASCII Graph
-
 ```text
 IbrahimHaroon_Skills/
 ├── Programming_Languages/
@@ -44,7 +25,6 @@ IbrahimHaroon_Skills/
 │   └── SQL
 ├── Frameworks/
 │   ├── Django
-│   ├── FastAPI
 │   └── React
 ├── Libraries/
 │   ├── BeautifulSoup
@@ -60,48 +40,45 @@ IbrahimHaroon_Skills/
 └── Tools/
     ├── Git
     ├── GitHub
-    ├── VS Code
+    ├── VSCode
     ├── PyCharm
     ├── IntelliJ
     ├── Google Cloud Platform
     └── Unix/Linux
 ```
 
+---
+
 ## 🚀 Projects
 
-```markdown
-### 🛒 E-Commerce Website | Python, FastAPI, PostgreSQL, Stripe, JavaScript, React
-- Engineered a FastAPI backend with PostgreSQL to manage product catalog, user accounts, and transaction data.
-- Integrated the Stripe API to enable secure and reliable payment processing while streamlining checkout workflows.
-- Developed RESTful endpoints for authentication and CRUD operations to ensure seamless client-server interaction.
-- Coordinated with a React frontend to deliver a complete full-stack e-commerce solution with a robust backend.
+### 🛒 E-Commerce Website | *Python, FastAPI, PostgreSQL, Stripe, JavaScript, React*
+- Engineered a **FastAPI backend** with PostgreSQL to manage product catalog, user accounts, and transaction data.  
+- Integrated the **Stripe API** for secure and reliable payment processing.  
+- Developed **RESTful endpoints** for authentication and CRUD operations to ensure seamless client-server interaction.  
+- Coordinated with a React frontend to deliver a full-stack e-commerce solution with a robust backend.
 
-### 🤖 Hackathon AI Bot | Python, HTML, CSS, GitHub, PhilaData, Django
-- Led a team of four to develop an AI chatbot during a hackathon, managing backend integration with Django.
-- Directed task assignments, timeframes, and collaboration to ensure balanced focus between frontend and backend work.
-- Researched solutions and guided teammates to overcome challenges with AI integration into the Django framework.
-- Completed a functional terminal-based prototype that showcased core chatbot features and backend integration.
+### 🤖 Hackathon AI Bot | *Python, HTML, CSS, GitHub, PhilaData, Django*
+- Led a **team of four** to develop an AI chatbot during a hackathon, managing backend integration with Django.  
+- Directed task assignments, timeframes, and collaboration between frontend and backend.  
+- Researched and implemented AI integration solutions for Django.  
+- Delivered a functional prototype showcasing chatbot features and backend integration.
 
-### 🌐 Web Scraping Data Visualizer | Python, BeautifulSoup, Matplotlib, NumPy
-- Built a Python scraper using BeautifulSoup to extract product dimension data from structured HTML web pages.
-- Implemented data visualization with Matplotlib and NumPy to transform extracted data into clear graphical outputs.
-- Designed a test website to validate scraping accuracy and achieved functionality success rates of over 95%.
-- Gained hands-on experience in web scraping, library integration, debugging, and multi-stage project planning.
+### 🌐 Web Scraping Data Visualizer | *Python, BeautifulSoup, Matplotlib, NumPy*
+- Built a **web scraper** using BeautifulSoup to extract product dimension data from structured HTML pages.  
+- Used **Matplotlib** and **NumPy** to visualize extracted data as clear graphical outputs.  
+- Designed a **test website** to validate scraping accuracy (95%+ success).  
+- Strengthened debugging and multi-stage project planning skills.
 
-### 🖥️ Fortran-95 Compiler | C++
-- Designed a lexical analyzer in C++ to read Fortran-95 programs and tokenize each statement and declaration.
-- Built a recursive descent parser to construct parse trees using formal grammar notation.
-- Implemented look-ahead parsing and recursion to handle complex structures and ensure accurate code interpretation.
-- Created an interpreter supporting dynamic execution with robust error handling and runtime evaluation.
-```
+### 🖥️ Fortran-95 Compiler | *C++*
+- Designed a **lexical analyzer** in C++ to tokenize Fortran-95 programs.  
+- Built a **recursive descent parser** for syntax analysis and parse tree generation.  
+- Implemented **look-ahead parsing** for complex structures with robust error handling.  
+- Created an interpreter supporting dynamic execution and runtime evaluation.
+
+---
 
 ## 📫 Contact
 
-```text
-- Email: ih628@njit.edu
-- LinkedIn: https://linkedin.com/in/ibrahim-haroon
-- GitHub: https://github.com/IbrahHaroon
-```
-
-
-Email: ih68@njit.edu
+- **Email:** [ih628@njit.edu](mailto:ih62@njit.edu)  
+- **LinkedIn:** [linkedin.com/in/ibrahim-haroon](https://linkedin.com/in/ibrahim-haroon)  
+- **GitHub:** [github.com/IbrahHaroon](https://github.com/IbrahHaroon)
