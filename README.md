@@ -84,6 +84,6 @@ IbrahimHaroon_Skills/
 
 ## 📫 Contact
 
-- **Email:** [ih628@njit.edu](mailto:ih62@njit.edu)  
+- **Email:** [ih62@njit.edu](mailto:ih62@njit.edu)  
 - **LinkedIn:** [linkedin.com/in/ibrahim-haroon](https://linkedin.com/in/ibrahim-haroon)  
 - **GitHub:** [github.com/IbrahHaroon](https://github.com/IbrahHaroon)
