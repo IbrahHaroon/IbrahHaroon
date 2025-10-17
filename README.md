@@ -12,15 +12,35 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
 
----
+## 🛠️ Skills — ASCII Graph
 
-## 🛠️ Skills
+Below is an ASCII-style skills graph (folder/tree format). It shows branches for Programming Languages, Frameworks, Libraries, Databases, and Tools. Copy, edit, or expand any branch to keep this document up to date.
 
-**Programming Languages:** Python, C, C++, Bash, Java, SQL  
-**Frameworks:** Django, FastAPI, React  
-**Libraries:** BeautifulSoup, Matplotlib, NumPy, Pandas, PyMongo, Stripe, SQLAlchemy  
-**Databases:** PostgreSQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ, Google Cloud Platform, Unix/Linux
+```
+IbrahimHaroon_Skills/
+├── Programming_Languages/
+│   ├── Python
+│   ├── C
+│   ├── C++
+│   ├── Bash
+│   ├── Java
+│   └── SQL
+├── Frameworks/
+│   ├── Django
+│   ├── FastAPI
+│   └── React
+├── Libraries/
+│   ├── BeautifulSoup
+│   ├── Matplotlib
+│   ├── NumPy
+│   ├── Pandas
+│   ├── PyMongo
+│   ├── Stripe
+│   └── SQLAlchemy
+├── Databases/
+│   ├── PostgreSQL
+│   └── MongoDB
+└── Tools/
 
 ## 🚀 Projects
 
