@@ -8,13 +8,19 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ## 📊 GitHub Stats
 
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahHaroon&layout=compact&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
 
 ---
+
+## 🛠️ Skills
+
+**Programming Languages:** Python, C, C++, Bash, Java, SQL  
+**Frameworks:** Django, FastAPI, React  
+**Libraries:** BeautifulSoup, Matplotlib, NumPy, Pandas, PyMongo, Stripe, SQLAlchemy  
+**Databases:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ, Google Cloud Platform, Unix/Linux
 
 ## 🚀 Projects
 
@@ -41,14 +47,6 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 - Built a recursive descent parser to construct parse trees using formal grammar notation.
 - Implemented look-ahead parsing and recursion to handle complex structures and ensure accurate code interpretation.
 - Created an interpreter supporting dynamic execution with robust error handling and runtime evaluation.
-
-## 🛠️ Skills
-
-**Programming Languages:** Python, C, C++, Bash, Java, SQL  
-**Frameworks:** Django, FastAPI, React  
-**Libraries:** BeautifulSoup, Matplotlib, NumPy, Pandas, PyMongo, Stripe, SQLAlchemy  
-**Databases:** PostgreSQL, MongoDB  
-**Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ, Google Cloud Platform, Unix/Linux
 
 ## 📫 Contact
 
