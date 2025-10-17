@@ -12,18 +12,11 @@ I'm a Computer Science student at NJIT, passionate about building impactful soft
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahHaroon)
 
+
 ## 🛠️ Skills — ASCII Graph
 
-```
+```text
 IbrahimHaroon_Skills/
-├── Programming_Languages/
-│   ├── Python
-│   ├── C
-│   ├── C++
-│   ├── Bash
-│   ├── Java
-│   └── SQL
-├── Frameworks/
 # 👋 Hi, I'm Ibrahim Haroon
 
 I'm a Computer Science student at NJIT, passionate about building impactful software and exploring the intersection of AI, web development, and data science. I love collaborating on open-source projects and learning new technologies.
@@ -65,13 +58,13 @@ IbrahimHaroon_Skills/
 │   ├── PostgreSQL
 │   └── MongoDB
 └── Tools/
-	├── Git
-	├── GitHub
-	├── VS Code
-	├── PyCharm
-	├── IntelliJ
-	├── Google Cloud Platform
-	└── Unix/Linux
+    ├── Git
+    ├── GitHub
+    ├── VS Code
+    ├── PyCharm
+    ├── IntelliJ
+    ├── Google Cloud Platform
+    └── Unix/Linux
 ```
 
 ## 🚀 Projects
@@ -83,7 +76,7 @@ IbrahimHaroon_Skills/
 - Developed RESTful endpoints for authentication and CRUD operations to ensure seamless client-server interaction.
 - Coordinated with a React frontend to deliver a complete full-stack e-commerce solution with a robust backend.
 
-### 🤖 Hackathon AI Bot | Python, HTML, CSS, GitHub, PhiData, Django
+### 🤖 Hackathon AI Bot | Python, HTML, CSS, GitHub, PhilaData, Django
 - Led a team of four to develop an AI chatbot during a hackathon, managing backend integration with Django.
 - Directed task assignments, timeframes, and collaboration to ensure balanced focus between frontend and backend work.
 - Researched solutions and guided teammates to overcome challenges with AI integration into the Django framework.
@@ -109,3 +102,6 @@ IbrahimHaroon_Skills/
 - LinkedIn: https://linkedin.com/in/ibrahim-haroon
 - GitHub: https://github.com/IbrahHaroon
 ```
+
+
+Email: ih68@njit.edu
