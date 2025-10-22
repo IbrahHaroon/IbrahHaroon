@@ -47,6 +47,7 @@ IbrahimHaroon_Skills/
 │   ├── NumPy
 │   ├── Pandas
 │   ├── PyMongo
+|   ├── Scikit-Learn
 │   ├── Stripe
 │   └── SQLAlchemy
 ├── Databases/
