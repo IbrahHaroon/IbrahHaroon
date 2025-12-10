@@ -9,7 +9,6 @@ Driven by curiosity and a commitment to continuous improvement, I strive to buil
 
 ## 📚 Specialized Interests
  - Backend Engineering
- - Systems Development
  - Machine Learning
  - Data Science
 
@@ -17,7 +16,7 @@ Driven by curiosity and a commitment to continuous improvement, I strive to buil
 
 ## 🛠️ Skills
 ```text
-IbrahimHaroon_Skills/
+Ibrahim_Haroon_Skills/
 ├── Programming_Languages/
 │   ├── Python
 │   ├── C
