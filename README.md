@@ -55,3 +55,4 @@ Ibrahim_Haroon_Skills/
 - **Email:** [ih62@njit.edu](mailto:ih62@njit.edu)  
 - **LinkedIn:** [linkedin.com/in/ibrahim-haroon](https://linkedin.com/in/ibrahim-haroon)  
 - **GitHub:** [github.com/IbrahHaroon](https://github.com/IbrahHaroon)
+- **X** [x.com](https://x.com/IbrahHaroon)
